@@ -1,0 +1,21 @@
+# Compiled Java files
+*.class
+
+# Eclipse project build output
+bin/
+target/
+
+# Eclipse IDE files (optional - remove these lines if you WANT to push eclipse config)
+# .classpath
+# .project
+# .settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# JAR files (MySQL connector - too large for GitHub)
+lib/*.jar
+
+# Log files
+*.log
